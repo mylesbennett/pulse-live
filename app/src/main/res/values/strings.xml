@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pulse Live</string>
+    <string name="article_list">Article List</string>
+    <string name="article_details">Article Details</string>
+</resources>
